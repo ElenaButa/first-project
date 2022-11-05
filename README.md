@@ -1,2 +1,2 @@
-# first-project
-Course for learning
+***
+My project
